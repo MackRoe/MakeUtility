@@ -10,3 +10,19 @@ go get -u golang.org/x/oauth2/google`
 Copy quickstart.go file into working directory, then run `go run quickstart.go`
 
 Navigate to link given in terminal and follow its provided instructions.
+
+### *Labels:*
+- CHAT
+- SENT
+- INBOX
+- IMPORTANT
+- TRASH
+- DRAFT
+- SPAM
+- CATEGORY_FORUMS
+- CATEGORY_UPDATES
+- CATEGORY_PERSONAL
+- CATEGORY_PROMOTIONS
+- CATEGORY_SOCIAL
+- STARRED
+- UNREAD
